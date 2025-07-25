@@ -1,5 +1,11 @@
 # Microservices
-
+{
+ 
+"applicationName": "katana",
+ 
+"key": "hvs.AcKIfS6VmLWIeZIbolIoplxe"
+ 
+}
 microservices code repo
 
 ## Getting started
